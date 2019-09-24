@@ -1,2 +1,2 @@
-# RortmanMMA2020
+# RotmanMMA2020
 Codes from my classroom
